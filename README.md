@@ -1,11 +1,12 @@
-Dear LinkedIn, Strangers, Connections and Friends out there 👋
+### Dear LinkedIn, Strangers, Connections and Friends out there 👋
 
 
-I'm Lee Chen Wei, aka Luis ~
-I'm the final year diploma student
-Seeking for internship related to cybersecurity or blockchain (Location: Klang Valley / REMOTE(WFH)
+**I'm Lee Chen Wei, aka Luis** <br><br>
+**I'm the final year diploma student,** <br>
+**Currently seeking for internship related to cybersecurity or blockchain <br>**
+**Preffered Location: Klang Valley / REMOTE(WFH)**
 
-Having a great interest in cybersecurity, blockchain and DeFI
+**Developing a student portal web project**
 
 
 <!--
