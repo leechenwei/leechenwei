@@ -1,4 +1,12 @@
-### Hi there 👋
+Dear LinkedIn, Strangers, Connections and Friends out there 👋
+
+
+I'm Lee Chen Wei, aka Luis ~
+I'm the final year diploma student
+Seeking for internship related to cybersecurity or blockchain (Location: Klang Valley / REMOTE(WFH)
+
+Having a great interest in cybersecurity, blockchain and DeFI
+
 
 <!--
 **leechenwei/leechenwei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
