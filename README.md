@@ -4,7 +4,7 @@
 **I'm Lee Chen Wei, aka Luis** <br><br>
 **I'm the final year diploma student,** <br>
 **Currently seeking for internship related to cybersecurity or blockchain <br>**
-**Preffered Location: Klang Valley / REMOTE(WFH)**
+**Preferred Location: Klang Valley / REMOTE(WFH)**
 
 **Developing a student portal web project**
 
