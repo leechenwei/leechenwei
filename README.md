@@ -2,7 +2,7 @@
 
 
 **I'm Lee Chen Wei, aka Luis** <br><br>
-**I'm the final year diploma student,** <br>
+**I'm the final year diploma in IT student from ERICAN College,Malaysia,** <br>
 **Currently seeking for internship related to cybersecurity or blockchain <br>**
 **Time: starting from Jun 2022 to Sept 2022**
 **Preferred Location: Klang Valley / REMOTE(WFH)**
