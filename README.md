@@ -7,7 +7,7 @@
 **Time: starting from Jun 2022 to Sept 2022**
 **Preferred Location: Klang Valley / REMOTE(WFH)**
 
-**I'm currently working on my final year project (Student Web Portal) (Web Development)**
+**I'm currently working on building my personal website with WordPress**
 
 
 <!--
