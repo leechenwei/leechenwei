@@ -9,6 +9,8 @@
 
 **I'm currently working on building my personal website with WordPress**
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leechenwei)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **leechenwei/leechenwei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
