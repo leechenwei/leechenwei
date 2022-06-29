@@ -3,11 +3,9 @@
 
 **I'm Lee Chen Wei, aka Luis** <br><br>
 **I'm the final year diploma in IT student from ERICAN College,Malaysia,** <br>
-**Currently seeking for internship related to cybersecurity or blockchain <br>**
-**Time: starting from Jun 2022 to Sept 2022**
-**Preferred Location: Klang Valley / REMOTE(WFH)**
-
-**I'm currently working on building my personal website with WordPress**
+**Currently Intern as a Database Specialist(Accounting SQL)**
+<br><br>
+**Looking to continue my Degree in CS after graduation at Sept 2022**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leechenwei)](https://github.com/anuraghazra/github-readme-stats)
 
