@@ -7,6 +7,8 @@
 <br><br>
 **Looking to continue my Degree in CS after graduation at Sept 2022**
 
+**Non-stop Learning ~**
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leechenwei)](https://github.com/anuraghazra/github-readme-stats)
 
 
