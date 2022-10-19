@@ -2,10 +2,7 @@
 
 
 **I'm Lee Chen Wei, aka Luis** <br><br>
-**I'm the final year diploma in IT student from ERICAN College,Malaysia,** <br>
-**Currently Intern as a Database Specialist(Accounting SQL/Audit) 60/100 Progress**
-<br><br>
-**Looking to continue my Degree in CS after graduation at Sept 2022**
+**I'm the first year Computer Science majoring in Artificial Intelligence student from University of Malaya,Malaysia,** <br>
 
 Non-stop Learning ~ 💪💪
 
