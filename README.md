@@ -2,7 +2,7 @@
 
 
 **I'm Lee Chen Wei, aka Luis** <br><br>
-**I'm the first year Computer Science majoring in Artificial Intelligence student from University of Malaya,Malaysia,** <br>
+**I'm the second year Computer Science majoring in Artificial Intelligence student from University of Malaya,Malaysia,** <br>
 
 Non-stop Learning ~ 💪💪
 
