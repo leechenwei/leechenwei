@@ -1,26 +1,28 @@
-### Dear LinkedIn, Strangers, Connections and Friends out there 👋
+### 👋 Dear LinkedIn, Strangers, Connections, and Friends out there,
 
+I'm **Lee Chen Wei**, aka **Luis**  
+🎓 Final Year Computer Science Student majoring in **Artificial Intelligence**  
+📍 University of Malaya, Malaysia  
+🎓 Diploma in IT | 📘 Pursuing Bachelor's Degree  
 
-**I'm Lee Chen Wei, aka Luis** <br><br> 
-**I'm the Final Year Computer Science majoring in Artificial Intelligence student from University of Malaya,Malaysia,** <br>
-**Currently holding a Diploma in IT Certification and pursuring degree**
+🚀 Always Curious | 🔁 Never Stop Learning | 💡 AI & Data Enthusiast
 
-Non-stop Learning ~ 💪💪
+---
 
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leechenwei)](https://github.com/anuraghazra/github-readme-stats)-->
+### 💼 About Me
 
+Passionate about:
+- 🤖 Artificial Intelligence
+- 🧠 Data Engineering & Data Science
+- ⚙️ Automation & Backend Systems
 
-<!--
-**leechenwei/leechenwei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently learning:
+- Apache Airflow  
+- Data Pipelines & Cleaning  
+- LLMs & Prompt Engineering
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats
+
+[![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=leechenwei&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
