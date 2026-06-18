@@ -29,5 +29,5 @@ I am a **Full-stack Developer & AI Engineer** based in Malaysia. I build commerc
 ---
 
 ### 🤝 Connect with Me
-*   **LinkedIn**: [Lee Chen Wei (Luis)]((https://www.linkedin.com/in/luislcw02/))
+*   **LinkedIn**: [Lee Chen Wei (Luis)](https://www.linkedin.com/in/luislcw02/)
 *   **Email**: LuisLCW02@gmail.com
